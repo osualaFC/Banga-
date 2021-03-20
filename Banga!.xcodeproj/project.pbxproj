@@ -29,6 +29,7 @@
 		CBD0088825F26BB600CEBD82 /* AudioTrack.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBD0088725F26BB600CEBD82 /* AudioTrack.swift */; };
 		CBD0088B25F26BC300CEBD82 /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBD0088A25F26BC300CEBD82 /* Artist.swift */; };
 		CBD0088E25F26BD500CEBD82 /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBD0088D25F26BD500CEBD82 /* UserProfile.swift */; };
+		CBE68A5D26060731007EF422 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBE68A5C26060731007EF422 /* Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		CBD0088725F26BB600CEBD82 /* AudioTrack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTrack.swift; sourceTree = "<group>"; };
 		CBD0088A25F26BC300CEBD82 /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		CBD0088D25F26BD500CEBD82 /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
+		CBE68A5C26060731007EF422 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +142,7 @@
 				CBD0084225F265D000CEBD82 /* Assets.xcassets */,
 				CBD0083B25F265CF00CEBD82 /* SceneDelegate.swift */,
 				CBD0083925F265CF00CEBD82 /* AppDelegate.swift */,
+				CBE68A5C26060731007EF422 /* Extension.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 				CBD0083E25F265CF00CEBD82 /* HomeViewController.swift in Sources */,
 				CBD0088225F26B4C00CEBD82 /* HapticsManager.swift in Sources */,
 				CBD0088825F26BB600CEBD82 /* AudioTrack.swift in Sources */,
+				CBE68A5D26060731007EF422 /* Extension.swift in Sources */,
 				CBD0086425F26A5100CEBD82 /* AuthViewController.swift in Sources */,
 				CBD0083A25F265CF00CEBD82 /* AppDelegate.swift in Sources */,
 				CBD0085E25F2699D00CEBD82 /* LibraryViewController.swift in Sources */,
